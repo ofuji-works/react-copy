@@ -1,0 +1,14 @@
+{
+  "name": "react-copy",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ofuji-works",
+  "license": "MIT",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "typescript": "^4.7.4",
+    "eslint": "^8.21.0",
+    "prettier": "^2.7.1"
+  }
+}
